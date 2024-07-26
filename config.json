@@ -1,7 +1,7 @@
 {
 	"facebookAccount": {
-		"email": "",
-		"password": "",
+		"email": "089508546008",
+		"password": "hozinwae",
 		"2FASecret": "",
 		"i_user": "",
 		"proxy": null,
@@ -18,7 +18,7 @@
 		"enable": false,
 		"ignoreCommand": []
 	},
-	"adminBot": [],
+	"adminBot": [100053735142416],
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": [],
@@ -40,15 +40,15 @@
 	"timeZone": "Asia/Ho_Chi_Minh",
 	"credentials": {
 		"gmailAccount": {
-			"email": "",
-			"clientId": "",
-			"clientSecret": "",
-			"refreshToken": "",
+			"email": "kinghozin@gmail.com",
+			"clientId": "399070212335-15p6id862stivtlhb3o6fb5eet94fnu2.apps.googleusercontent.com",
+			"clientSecret": "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",
+			"refreshToken": "1//04qPsWNB72rf8CgYIARAAGAQSNwF-L9IrRc74UXZ4YDiVP8WkhnwQi8CaWv9GETYIecuCWKEALtIw_YMZAYAtJwH620bcDnluj_U",
 			"apiKey": ""
 		},
 		"gRecaptcha": {
-			"siteKey": "",
-			"secretKey": ""
+			"siteKey": "6Le9rgcqAAAAAJqImUytLuxCpln0eu8k5Oyi6iFZ",
+			"secretKey": "6Le9rgcqAAAAACNrsbhNIGQWQXkXq3spOXswsAtr"
 		}
 	},
 	"dashBoard": {
